@@ -1,37 +1,13 @@
 {
-
-  "page": [
-      {
-          "name": "Schedule",
-      },
-
-      {
-          "name": "Weather",
-      },
-
-      {
-          "name": "Affirmation",
-      }
-
+    "page": [
+        {
+            "name": "Schedule"
+        },
+        {
+            "name": "Weather"
+        },
+        {
+            "name": "Affirmation"
+        }
     ]
-    
-}  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+}
